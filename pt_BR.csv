@@ -2728,7 +2728,7 @@ Error!,Erro!
 "Estimate Tax","Consultar Valor do Imposto"
 "Estimate Shipping and Tax","Consultar Valor do Frete e Imposto"
 "Order #","Pedido #"
-"Proceed to Checkout","Avançar para o Checkout"
+"Proceed to Checkout","Pagamento"
 "Your order number is: %1.","O número do seu pedido é: %1."
 "Your order # is: <span>%1</span>.","Seu pedido # é: <span>%1</span>."
 "We'll email you an order confirmation with details and tracking info.","Enviaremos para você um e-mail de confirmação do seu pedido com detalhes e informações de rastreamento."
@@ -11706,3 +11706,4 @@ Translate,Traduzir
 "Swatch and Admin are the required fields in the each row.","Swatch e Admin são os campos obrigatórios em cada linha."
 "The widget %1 is no longer available. Select a different widget.","O widget %1 não está mais disponível. Selecione um widget diferente."
 "You have added %1 to shopping cart.","%1 foi adicionado ao carrinho."
+"View Cart","Carrinho"
