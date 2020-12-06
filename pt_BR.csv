@@ -1336,7 +1336,7 @@ exception,exceção
 or,ou
 "Please confirm that you want to delete this credit card","Por favor, confirme que você deseja excluir este cartão de crédito"
 "Cardholder Name","Nome do Titular do Cartão"
-"* Required Fields","* Campos Obrigatórios"
+"* Required Fields","* Obrigatório"
 "Card Verification Number Visual Reference","Referência Visual do Número de Verificação do Cartão"
 "Make Default","Tornar Padrão"
 "Billing Address","Endereço de Cobrança"
@@ -8540,8 +8540,7 @@ Rating,Classificação
 "Ratings Review Summary","Resumo de Avaliações"
 "Be the first to review this product","Seja o primeiro a avaliar este produto"
 "Write Your Own Review","Escreva sua Própria Avaliação"
-"You're reviewing:","Você está avaliando:"
-"You're reviewing","Você está avaliando"
+"You're reviewing: ","Você está avaliando:"
 "Your Rating","Sua Classificação"
 "Submit Review","Enviar Avaliação"
 "Only registered users can write reviews. Please <a href=""%1"">Sign in</a> or <a href=""%2"">create an account</a>","Somente usuários cadastrados podem escrever avaliações. Por favor, <a href=""%1""> faça seu login</a> ou <a href=""%2"">cadastre-se</a>"
